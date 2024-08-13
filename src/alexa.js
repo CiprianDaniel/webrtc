@@ -9,9 +9,9 @@ const aaa=1;
 const ALEXA_REFRESH_TOKEN =
   "Atzr|IwEBIEJYoNW5TE3cRJZxL-AIdZ9IcHbdlO8RHLX791ZVd_hNWmGMM4pwBEVx3omdVyXP4TVYYAxHjQsWw3aNCOMZML6222ZMNk7bEZl9tzI65a3RzxarysnwqMqQSTY__gfnbeUzeRjVsdX0QxnPSIrhquDGryzYkJdu8aFukadyv9ZI4qlLLjURV0WYY5McMWHEUb_cgHbo8XY35D0fdhQDsv-hZoUM_ONFe4t-r71NV74rHzHj6OgDTBjRejjUXeKu-ONL8kLFYxfDBd2XZYT8FfFhY6GSg32ezN8_VRtrZnxcrxFHaPH3sW9xBmMBd3JOI9g";
 const ALEXA_CLIENT_ID =
-  "amzn1.application-oa2-client.a0f599aeeaac414ba6e9b40896f957cc";
+  "amzn1.application-oa2-client.53e977c546dc423ba9f39b8ffa4ed496";
 const ALEXA_CLIENT_SECRET =
-  "amzn1.oa2-cs.v1.323e07bc158b28d3b425d19110f4b53500842d25b769abce3a5c6389cd584a24";
+  "amzn1.oa2-cs.v1.acfd39b424a2a7ed6f7ea38d1f1ac565477461743fd3e0b04a840fbc05ac1323";
 
 let accessToken;
 
