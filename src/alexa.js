@@ -11,7 +11,7 @@ const ALEXA_REFRESH_TOKEN =
 const ALEXA_CLIENT_ID =
   "amzn1.application-oa2-client.53e977c546dc423ba9f39b8ffa4ed496";
 const ALEXA_CLIENT_SECRET =
-  "amzn1.oa2-cs.v1.acfd39b424a2a7ed6f7ea38d1f1ac565477461743fd3e0b04a840fbc05ac1323";
+  "acfd39b424a2a7ed6f7ea38d1f1ac565477461743fd3e0b04a840fbc05ac1323";
 
 let accessToken;
 
