@@ -56,6 +56,8 @@ export function sendToAlexa(message, sessionId) {
       signalingEventsURL = signalingEventsURLforEU;
       break;
     case "NA":
+      signalingEventsURL = signalingEventsURLforEU;
+      break;
     default:
       signalingEventsURL = signalingEventsURLforNA;
       break;
